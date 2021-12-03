@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "yeps_ghostmap_3",
+"productVersion": "0.1",
+"dataUrl": "211204_webGL.data.unityweb",
+"wasmCodeUrl": "211204_webGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "211204_webGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
